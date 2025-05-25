@@ -12,3 +12,4 @@ D:\coding\C#\dayone\obj\Debug\net8.0\refint\dayone.dll
 D:\coding\C#\dayone\obj\Debug\net8.0\dayone.pdb
 D:\coding\C#\dayone\obj\Debug\net8.0\dayone.genruntimeconfig.cache
 D:\coding\C#\dayone\obj\Debug\net8.0\ref\dayone.dll
+D:\coding\C#\dayone\obj\Debug\net8.0\dayone.sourcelink.json
